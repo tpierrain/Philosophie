@@ -21,11 +21,11 @@ Le régime Platonicien néglige le corps.
 
 L'éternité est une fiction ou alors c'est l'éternité du changement pour les Epicuriens. 
 
-Le matérialisme de Démocrite est un matérialisme de combat. C'est en effet un matérialisme anti-Phytagoricien et donc aussi anti-Platonicien (Platon qui prône lui le dualisme entre l'âme/les idées et le corps)
+Le matérialisme de Démocrite est un matérialisme de combat. C'est en effet un matérialisme anti-Pythagoricien et donc aussi anti-Platonicien (Platon qui prône lui le dualisme entre l'âme/les idées et le corps)
 
 Oui car :
 
- - Démocrite recycle Leucippe. 
+ - Démocrite recycle Leucippe.
 
  - Platon recycle Pythagore. 
 
