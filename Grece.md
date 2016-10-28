@@ -1,8 +1,11 @@
 
-# Sagesses antiques
+# Sagesses antiques : les Grecs
+
+Note: Ces notes prises sur mon téléphone font partie du __[Repo-Philo dont j'explique les motivations ici](Readme.md)__. J'ai essayé de les reprendre un peu avant de les poster mais celles-ci peuvent encore contenir de nombreuses coquilles et fautes d'orthographes (je m'en excuse au passage). 
 
 *Je reprends ici le tître du 1er ouvrage de la contre-histoire de la philosophie de Michel Onfray dont j'apprécie particulièrement le travail depuis de nombreuses années (même si le "personnage" peut m'agacer par moment). La plupart de mes notes viennent d'ailleurs de l'écoute des différents exposés fait par Michel ONFRAY à l'Université populaire de Caen*
 
+- - -
 
 ## Les Présocratiques 
 
@@ -101,14 +104,14 @@ __Attention à la carricature :__ L'hédonisme est une sculpture de soi, une con
 
 __Quelques repères:__ 
 
- - Aristipe de Siren (hédoniste sirenaique)
+ - Aristipe de Cyrène (Hédoniste Cyrénaïque) - Le site de [Cyrène](https://fr.wikipedia.org/wiki/Cyr%C3%A8ne) est aujourd'hui en Libye. 
 
  - Démocrite (Materialiste)
 
  - Gorgias, protagoras (Sophistes)
 
 
-### Quand Platon dérape
+### Platon, cet escroc... ;-)
 
 Le Philèbe de Platon est un personnage conceptuel.
 
