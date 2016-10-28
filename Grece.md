@@ -1,7 +1,7 @@
 
 # Sagesses antiques : les Grecs
 
-Note: Ces notes prises sur mon téléphone font partie du __[Repo-Philo dont j'explique les motivations ici](Readme.md)__. J'ai essayé de les reprendre un peu avant de les poster mais celles-ci peuvent encore contenir de nombreuses coquilles et fautes d'orthographes (je m'en excuse au passage). 
+Note: Ces notes prises sur mon téléphone font partie du __[Repo-Philo dont j'explique les motivations ici](Readme.md)__. J'ai essayé de les reprendre un peu avant de les poster mais celles-ci peuvent encore contenir de nombreuses coquilles et fautes d'orthographes (je m'en excuse par avance). 
 
 *Je reprends ici le tître du 1er ouvrage de la contre-histoire de la philosophie de Michel Onfray dont j'apprécie particulièrement le travail depuis de nombreuses années (même si le "personnage" peut m'agacer par moment). La plupart de mes notes viennent d'ailleurs de l'écoute des différents exposés faits par Michel ONFRAY à l'Université populaire de Caen*
 
@@ -130,11 +130,12 @@ On peut d'ailleurs ici faire une critique des dialogues de Platon: Il donne la p
 
 ---
 
-### La "connaissance"
+### La "connaissance": plusieurs approches...
 
-Aristippe de Cyrène (hédoniste) a une approche sensualiste, matérialiste, empiriste de la connaissance.
+ - Aristippe de Cyrène (hédoniste) a une approche sensualiste, matérialiste, empiriste de la connaissance.
 
-Platon a une approche en idéaliste, ce qui prime est l'essence, l'idée.
+ - Platon a une approche en idéaliste, ce qui prime est l'essence, l'idée.
+
 
 Parenthèse *Les nominalistes au moyen age pensaient que les mots n'étaient que des conventions langagières et qu'ils ne renvoyaient que de la convention qui permettait l'échange et qu'il n'y avait pas de vérité absolue de l'idée en tant que telle et qu'elle n'existait pas par elle meme. Les mots sont des occasions de discuter (querelle qui traverse tout le moyen-age).* 
 
