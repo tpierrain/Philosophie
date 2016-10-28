@@ -170,7 +170,7 @@ Choix d'Heracles (variation sur le choix en Y: la vie de plaisir vs. vie d'effor
 
 Xenophon était Platonicien.
 
-__L'idéal ascétique (formule de Nietzsche) = detestation du corps.__
+__L'idéal ascétique (formule de Nietzsche) = détestation du corps que l'on trouve déjà chez Platon.__
 
 ---
 
