@@ -122,7 +122,7 @@ __Quelques repères:__
  - Gorgias, protagoras (Sophistes)
 
 
-### Platon, cet escroc... ;-)
+### Platon, quand il s'agit d'être fair-play... ;-)
 
 Le Philèbe de Platon est un personnage conceptuel.
 
