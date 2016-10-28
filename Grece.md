@@ -3,7 +3,7 @@
 
 Note: Ces notes prises sur mon téléphone font partie du __[Repo-Philo dont j'explique les motivations ici](Readme.md)__. J'ai essayé de les reprendre un peu avant de les poster mais celles-ci peuvent encore contenir de nombreuses coquilles et fautes d'orthographes (je m'en excuse par avance). 
 
-*Je reprends ici le tître du 1er ouvrage de la contre-histoire de la philosophie de Michel Onfray dont j'apprécie particulièrement le travail depuis de nombreuses années (même si le "personnage" peut m'agacer par moment). La plupart de mes notes viennent d'ailleurs de l'écoute des différents exposés faits par Michel ONFRAY à l'Université populaire de Caen*
+*Je reprends ici le tître du 1er ouvrage de la contre-histoire de la philosophie de Michel Onfray dont j'apprécie particulièrement le travail depuis de nombreuses années (même si le "personnage" peut m'agacer par moment). La plupart de mes notes viennent d'ailleurs de l'écoute -dans le métro- des différents exposés faits par Michel ONFRAY à l'Université populaire de Caen*
 
 - - -
 
@@ -23,7 +23,7 @@ L'éternité est une fiction ou alors c'est l'éternité du changement pour les 
 
 Le matérialisme de Démocrite est un matérialisme de combat. C'est en effet un matérialisme anti-Phytagoricien et donc aussi anti-Platonicien (Platon qui prône lui le dualisme entre l'âme/les idées et le corps)
 
-Une continuité:
+Oui car :
 
  - Démocrite recycle Leucippe. 
 
@@ -46,7 +46,18 @@ Il y a une vraie ligne de force dans l'hédonisme qui est souvent utilitariste. 
 
 __Il n'y a pas d'athéisme épicurien__ L'épicurisme est un polythéisme matérialiste. 
 
+- - -
+
 ### L'anti-platonisme : 1ere grande idée des philosophes cyniques.
+
+Pour rappel, __Platon = dualisme entre les idées (qui existeraient par elles-même) et le monde sensible ou réel (qui ne serait qu'une "*ombre pâle*").__
+
+Platon c'est l'adoration des idées, de la pensée. La fascination pour les mathématiques ("*que nul n'entre ici s'il n'est géomètre*"), le dédain pour la vie ("*les philosophes authentiques sont avides de mourir*, Phédon, 64b"). L'adoration de l'absolu, le mépris pour le corps sensible, charnel.  
+
+__Platon est en quelque sorte l'avocat de la *Transcendance*__; celui d'un arrière-monde (des idées) qui vaudrait plus que le monde rééel dans lequel on évolue.
+
+__Les Epicuriens eux plaident plutôt pour l'*Immanence*__: ne nous en remettons pas à un quelconque arrière-monde (celui des idées, ou bien celui du *Paradis* des principaux monothéïsmes). Profitons de la vie et de ce qu'elle a à nous offrir. Maintenant !
+
 
 Diogène est comme les Sophistes du coté de la Nature (__[Phusis](https://fr.wikipedia.org/wiki/Phusis)__). 
 
