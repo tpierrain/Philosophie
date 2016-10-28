@@ -3,7 +3,7 @@
 
 Note: Ces notes prises sur mon téléphone font partie du __[Repo-Philo dont j'explique les motivations ici](Readme.md)__. J'ai essayé de les reprendre un peu avant de les poster mais celles-ci peuvent encore contenir de nombreuses coquilles et fautes d'orthographes (je m'en excuse par avance). 
 
-*Je reprends ici le tître du 1er ouvrage de la contre-histoire de la philosophie de Michel Onfray dont j'apprécie particulièrement le travail depuis de nombreuses années (même si le "personnage" peut m'agacer par moment). La plupart de mes notes viennent d'ailleurs de l'écoute -dans le métro- des différents exposés faits par Michel ONFRAY à l'Université populaire de Caen*
+*Je reprends ici le tître du 1er ouvrage de la contre-histoire de la philosophie de Michel Onfray dont j'apprécie particulièrement le travail depuis de nombreuses années (même si le "personnage" peut m'agacer par moment). Une grosse partie de mes notes viennent d'ailleurs de l'écoute -dans le métro- des différents exposés faits par Michel ONFRAY à l'Université populaire de Caen*
 
 - - -
 
@@ -78,7 +78,7 @@ Pour Epicure, je philosophe avec mon corps. La totalité de ma chair.
 
 __Ascèse :__ maitriser son corps et ne pas se laisser dominer par lui. 
 
-Attention : l'ascèse ne débouche pas forcement sur l'ascétisme (chez les hédonistes, ça débouche sur le plaisir). 
+__Attention : l'ascèse ne débouche pas forcement sur l'ascétisme !__ (chez les hédonistes, ça débouche sur le plaisir). 
 
 __Paradoxe :__ l'ascèse est une maitrise culturelle de la nature.
 
