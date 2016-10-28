@@ -17,15 +17,15 @@ J'aime ce "*sport de combat*" où la confrontation des idées permet parfois d'�
 
 *Le libre-arbitre existe t'il vraiment ? Qu'est ce qu'aimer ? Faut-il avoir peur de la mort ? Qu'est ce qu'une vie réussie ?* 
 
-Autant de questions qui nous concernent toutes et tous et qui méritent sans doute plus d'attention que celle qu'on leur réserve de nos jours (lié à la période d'immédiateté à laquelle j'appartiens je dois le reconnaître ;-) 
+Autant de questions qui nous concernent toutes et tous et qui méritent sans doute plus d'attention que celle qu'on leur réserve de nos jours (dans cette période où l'immédiateté fait loi). 
 
-Et il n'est pas forcément question ici que de pensées abstraites. Une partie des philosophes Grecs disaient à l'époque: *Vivre sa pensée, et penser sa vie*. Pour moi c'est surtout ça être philosophe: mettre en cohérence ses actions et sa pensée. 
+Et il ne sera pas forcément question ici que de pensées abstraites. Une partie des philosophes Grecs disaient à l'époque: *Vivre sa pensée, et penser sa vie*. Pour moi c'est surtout ça être philosophe: mettre en cohérence ses actions et sa pensée. 
 
 ## Forcément subjectif
-Plus proche des idées d'Epicure, de Tchouang-Tseu, de Spinoza et de Nietzsche que celles de Platon ou de Kant, je proposerai ici une lecture et une sélection forcément biaisée des auteurs et des sujets qui me passionnent.
+Plus proche des idées d'Epicure, de Tchouang-Tseu, de Spinoza et de Nietzsche que celles de Platon ou de Kant, je proposerai ici une lecture et une sélection forcément biaisée des auteurs et des sujets qui me passionnent. Certaines pages seront consacrées à de l'histoire de la philosophie (pour avoir quelques bases), d'autres seront plutôt consacrées à des sujets en particulier (la liberté, le relativisme, etc)
 
 ## Ce repo git-hub est donc pour moi l'occasion de vider mes notes
 ...prises sur mon téléphone lors de lectures, d'écoutes de débats et de séminaires sur le sujet. J'encourage également toutes celles et ceux qui voudraient le faire à échanger, débattre, contribuer sous la forme de pull-request ou d'issues (sans doute mieux pour discuter).
 
-Bienvenue sur ce repo donc... et commençons par __[les Grecs](Grece.md)__ ;-)
+Bienvenue sur ce repo-philo donc, et commençons par ... __[les Grecs](Grece.md)__ ;-)
 
