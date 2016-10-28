@@ -1,5 +1,5 @@
 
-# Sagesses antiques : les Grecs
+# Sagesses antiques : les Grecs (partie 1)
 
 Ces notes prises parfois en style télégraphique sur mon téléphone font partie du __[Repo-Philo dont j'explique les motivations ici](Readme.md)__. J'ai essayé de les reprendre un peu avant de les poster mais celles-ci peuvent encore contenir quelques coquilles et fautes d'orthographes (je m'en excuse par avance). 
 
