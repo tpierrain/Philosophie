@@ -111,7 +111,7 @@ Les épicuriens parlent eux d'__[Ataraxie](https://fr.wikipedia.org/wiki/Ataraxi
 
 Diogène -> Savoir prendre du plaisir sans être pris par lui. 
 
-__Attention à la carricature :__ L'hédonisme est une sculpture de soi, une construction de soi, une ascèse - au contraire de la caricature de l'abandon aux instincts (voire l'image de la "*bête*") qui est véhiculée par Platon. 
+__Attention à la caricature :__ L'hédonisme est une sculpture de soi, une construction de soi, une ascèse - au contraire de la caricature de l'abandon aux instincts (voire l'image de la "*bête*") qui est véhiculée par Platon. 
 
 __Quelques repères:__ 
 
@@ -126,14 +126,13 @@ __Quelques repères:__
 
 Le Philèbe de Platon est un personnage conceptuel.
 
-Dans le dialogue du même nom, Platon n'est pas vraiment juste... On y trouve en effet 15 lignes qui "défendent" la théorie hédoniste... sur les milliers de lignes acquises à la thèse Platonicienne...
+Dans le dialogue du même nom, Platon n'est pas vraiment juste... On y trouve en effet 15 lignes qui "défendent" la théorie hédoniste... sur les milliers de lignes acquises à la thèse Platonicienne. A bah ça... Bravo !
 
-Pourquoi Platon, qui est capable de "respecter" Parménides (sur le sujet de l'Ontologie, de "l'être" avec lequel il n'est pas d'accord) est-il ici incapable de d'aborder la question du Plaisir en traitant la thèse hédoniste avec un minimum de respect voire d'intégrité (15 lignes "pour" et encore, en prenant l'hédoniste pour un idiot durant ces 15 malheureuses lignes : "comment Socrate?", "peux-tu répéter?")
+Pourquoi Platon, qui est capable de "respecter" par ailleurs Parménides (sur le sujet de l'Ontologie, de "l'être" malgré sont désaccord) est-il ici incapable d'aborder la question du Plaisir serainement, en traitant la thèse hédoniste avec un minimum de respect voire d'intégrité (15 lignes "pour" et encore, en prenant l'hédoniste pour un idiot durant ces 15 malheureuses lignes : "comment Socrate?", "peux-tu répéter?")
 
 __La question du plaisir est évitée par Platon. C'est un dialogue qui n'a pas lieu.__
 
 Platon ne respecte pas Démocrite ni [Aristippe de Cyrène](https://fr.wikipedia.org/wiki/Aristippe_de_Cyr%C3%A8ne) (dont il explique -en mode poukave-, qu'il n'a même pas fait l'effort de venir aux funérailles de Socrate)
-
 
 #### Il y a une haine de Platon pour l'hédonisme et le matérialisme qui rends impossible une sérénité de Platon sur ce sujet. 
 
@@ -148,23 +147,20 @@ On peut d'ailleurs ici faire une critique des dialogues de Platon: Il donne la p
  - Platon a une approche en idéaliste, ce qui prime est l'essence, l'idée.
 
 
-Parenthèse *Les nominalistes au moyen age pensaient que les mots n'étaient que des conventions langagières et qu'ils ne renvoyaient que de la convention qui permettait l'échange et qu'il n'y avait pas de vérité absolue de l'idée en tant que telle et qu'elle n'existait pas par elle meme. Les mots sont des occasions de discuter (querelle qui traverse tout le moyen-age).* 
+Parenthèse: *les nominalistes au moyen age pensaient que les mots n'étaient que des conventions langagières et qu'ils ne renvoyaient que de la convention qui permettait l'échange et qu'il n'y avait pas de vérité absolue de l'idée en tant que telle et qu'elle n'existait pas par elle même. Les mots sont des occasions de discuter (querelle qui traverse tout le moyen-age).* 
 
-
+__Pour Platon (voir la République) le philosophe est l'auxiliaire du pouvoir__. Aristippe lui, est un rebelle.
 
 ### Le piège réthorique de Platon (dans le Philèbe) 
 
-__Pour Platon (voir la République) le philosophe est l'auxiliaire du pouvoir__. Aristippe lui, est un rebelle. 
-
-
 Les 3 modes de vie communément pensés à l'époque théorétique: (le penseur, le prince et le commerçant) et que Platon transforme en bon dualiste qu'il est en : "on est soit dans la reflexion, soit dans l'action". => la separation entre l'intellectuel et le manuel qui a fait des dégâts en occident.
 
-__Platon utilise le même manichéisme en opposant ceux qui jouissent et ceux qui pensent (dans un piège réthorique du Philèbe).__ 
+__Platon utilise le même manichéisme en opposant ceux qui jouissent et ceux qui pensent (dans un piège réthorique tendu à l'hédoniste *"un-peu-idiot-on-peut-le-dire"* Protarque du Philèbe).__ 
 
 Le dualisme est une invitation a ne pas penser. A ne pas réfléchir. Principe d'enfermement. __Dispositif réthorique qui ne permets pas d'envisager la complexité du réel.__
 
 
-Il n'y a pas de lettre 'y' chez les grecs, mais elle existe chez les ioniens. Y comme symbole d'un choix a faire. 
+Il n'y a pas de lettre 'Y' chez les grecs, mais elle existe chez les ioniens. Y comme symbole d'un choix a faire. 
 
 Choix d'Heracles (variation sur le choix en Y: la vie de plaisir vs. vie d'effort)
 
