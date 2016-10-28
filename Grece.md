@@ -1,9 +1,9 @@
 
 # Sagesses antiques : les Grecs
 
-Note: Ces notes prises sur mon téléphone font partie du __[Repo-Philo dont j'explique les motivations ici](Readme.md)__. J'ai essayé de les reprendre un peu avant de les poster mais celles-ci peuvent encore contenir de nombreuses coquilles et fautes d'orthographes (je m'en excuse par avance). 
+Ces notes prises parfois en style télégraphique sur mon téléphone font partie du __[Repo-Philo dont j'explique les motivations ici](Readme.md)__. J'ai essayé de les reprendre un peu avant de les poster mais celles-ci peuvent encore contenir de nombreuses coquilles et fautes d'orthographes (je m'en excuse par avance). 
 
-*Je reprends ici le tître du 1er ouvrage de la contre-histoire de la philosophie de Michel Onfray dont j'apprécie particulièrement le travail depuis de nombreuses années (même si le "personnage" peut m'agacer par moment). Une grosse partie de mes notes viennent d'ailleurs de l'écoute -dans le métro- des différents exposés faits par Michel ONFRAY à l'Université populaire de Caen*
+*Je reprends ici le tître du 1er ouvrage de la contre-histoire de la philosophie de Michel Onfray dont j'apprécie particulièrement le travail depuis de nombreuses années (même si le "personnage" m'agace parfois par moment). Une grosse partie de mes notes viennent d'ailleurs de l'écoute -dans le métro- des différents exposés faits par Michel Onfray à l'Université populaire de Caen*
 
 - - -
 
