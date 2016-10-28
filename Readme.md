@@ -19,7 +19,7 @@ J'aime ce "*sport de combat*" où la confrontation des idées permet parfois d'�
 
 Autant de questions qui nous concernent toutes et tous et qui méritent sans doute plus d'attention que celle qu'on leur réserve de nos jours (dans cette période où l'immédiateté fait loi). 
 
-Et il ne sera pas forcément question ici que de pensées abstraites. Une partie des philosophes Grecs disaient : "*Vivre sa pensée, et penser sa vie*". Pour moi c'est surtout ça __être philosophe: mettre en cohérence ses actions et sa pensée__. 
+Et il ne sera pas forcément question ici que de pensées abstraites. Une partie des philosophes Grecs disaient : "*Vivre sa pensée, et penser sa vie*". Pour moi c'est surtout ça __être philosophe: mettre en cohérence ses actions et sa pensée__. Et puis à une époque où certains brandissent leurs idéologies de mort (promettant un arrière-monde merveilleux à tous ceux qu'ils envoient massacrer ceux qui ne partageraient pas leur point de vue), réfléchir et philosopher ne me paraissent pas de trop.
 
 ## Forcément subjectif
 Plus proche des idées d'Epicure, de Tchouang-Tseu, de Spinoza et de Nietzsche que celles de Platon ou de Kant, je proposerai ici une lecture et une sélection forcément biaisée des auteurs et des sujets qui me passionnent. Certaines pages seront consacrées à de l'histoire de la philosophie (pour avoir quelques bases), d'autres seront plutôt consacrées à des sujets en particulier (la liberté, le relativisme, etc)
