@@ -21,7 +21,7 @@ Autant de questions qui nous concernent toutes et tous et qui méritent sans dou
 
 ## T'as d'la pâte? t'as du suc? Et bien tu peux faire ...
 
-... de la philosophie. Celle-ci ne devrait d'ailleurs pas être réservée à une élite (les profs, les germanopratins ou quelques historiens de la philosophie). Il ne sera donc pas forcément question ici que de pensées abstraites ou de débats... Un philosophe contemporain disait récemment : "*La philosophie, c'est vivre sa pensée, et penser sa vie*". Pour moi ça devrait déjà être çà __la philosophie : mettre en cohérence sa pensée et ses actes__.
+... de la philosophie. Celle-ci ne devrait d'ailleurs pas être réservée à une élite (les profs, les germanopratins ou quelques historiens de la philosophie). Il ne sera donc pas forcément question ici que de pensées abstraites ou de débats... Un philosophe contemporain que j'aime bien disait récemment : "*La philosophie, c'est vivre sa pensée, et penser sa vie*". Pour moi ça devrait déjà être çà __la philosophie : mettre en cohérence sa pensée et ses actes__.
 
 ## Forcément subjectif donc
 Plus proche des idées d'Epicure, de Tchouang-Tseu, de Spinoza et de Nietzsche que celles de Platon ou de Kant, je proposerai ici une lecture et une sélection forcément orientée des auteurs et des sujets qui me passionnent. Certaines pages seront consacrées à de l'histoire de la philosophie (pour avoir quelques bases), d'autres seront plutôt consacrées à des sujets en particulier (la liberté, le relativisme, etc)

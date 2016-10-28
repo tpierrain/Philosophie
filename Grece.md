@@ -9,7 +9,7 @@ Note: Ces notes prises sur mon téléphone font partie du __[Repo-Philo dont j'e
 
 ## Les Présocratiques 
 
-Tout d'abord le terme pré-Socratique est galvaudé en général, puisqu'on y associe également des contemporains (ex. Démocrite), voire des successeurs.
+Tout d'abord le terme pré-Socratique est complétement galvaudé, puisqu'on y associe également des contemporains (ex. Démocrite), voire des successeurs.
 
 
 ### *Vivre sa pensée, et penser sa vie*
