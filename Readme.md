@@ -9,7 +9,7 @@ Cela avait pourtant mal commencé... Je me souviens de ma frustration au lycée 
 Une déception également à l'époque. Mon père étant fan de Nietzsche, je m'étais préparé pour des questions abyssales et des débats intenses dans cette matière qui m'attirait avant même de la découvrir vraiment. Aujourd'hui, je pense que c'est de cette frustration qu'est né le besoin chez moi de m'y mettre, un peu plus tard.
 
 ## Un sujet plus que d'actualité
-Je ne sais plus qui a dit qu'*une vie sans philosophie est une vie en sommeil*, mais je suis assez d'accord avec ça. A l'aube de questions cruciales qui se posent pour notre humanité avec l'avénement de l'Intelligence Artificielle et du Transhumanisme, je suis convaincu qu'il nous faut réfléchir encore plus que ce que nous faisons actuellement. Et la philosophie est un allié de poids. Et puis à une époque où certains brandissent leurs idéologies de mort (promettant un arrière-monde merveilleux à tous ceux qu'ils envoient massacrer ceux qui ne pensent pas comme eux), réfléchir et philosopher ne me paraissent pas de trop.  
+Je ne sais plus qui a dit qu'*une vie sans philosophie est une vie en sommeil*, mais je suis assez d'accord avec ça. A l'aube de questions cruciales qui se posent pour notre humanité avec l'avénement de l'Intelligence Artificielle et du Transhumanisme, je suis convaincu qu'il nous faut réfléchir encore plus que ce que nous faisons actuellement. La philosophie est un allié de poids. Et puis à une époque où certains brandissent leurs idéologies de mort (promettant un arrière-monde merveilleux à tous ceux qu'ils envoient massacrer ceux qui ne pensent pas comme eux), réfléchir et philosopher ne me paraissent pas de trop.  
 
 ## La philosophie, ce sport de combat...
 
