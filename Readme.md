@@ -1,4 +1,4 @@
-# Philosophie
+# Repo-Philo
 
 ## Pourquoi ce repo dédié à la philosophie ?
 

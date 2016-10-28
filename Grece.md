@@ -3,7 +3,7 @@
 
 Note: Ces notes prises sur mon téléphone font partie du __[Repo-Philo dont j'explique les motivations ici](Readme.md)__. J'ai essayé de les reprendre un peu avant de les poster mais celles-ci peuvent encore contenir de nombreuses coquilles et fautes d'orthographes (je m'en excuse au passage). 
 
-*Je reprends ici le tître du 1er ouvrage de la contre-histoire de la philosophie de Michel Onfray dont j'apprécie particulièrement le travail depuis de nombreuses années (même si le "personnage" peut m'agacer par moment). La plupart de mes notes viennent d'ailleurs de l'écoute des différents exposés fait par Michel ONFRAY à l'Université populaire de Caen*
+*Je reprends ici le tître du 1er ouvrage de la contre-histoire de la philosophie de Michel Onfray dont j'apprécie particulièrement le travail depuis de nombreuses années (même si le "personnage" peut m'agacer par moment). La plupart de mes notes viennent d'ailleurs de l'écoute des différents exposés faits par Michel ONFRAY à l'Université populaire de Caen*
 
 - - -
 
@@ -31,16 +31,16 @@ Une continuité:
 
 
 Pour résoudre le problème de la liaison entre le corps et l'âme, Démocrite utilise 2 concepts: 
- - les atomes somatiques (corps)
  
- et
-
+ - les atomes somatiques (corps), et
+ 
  - les atomes psychiques (qui relèvent de l'âme, mais qui est chez lui matérielle)
 
 
-La philosophie grecque : la liberté elle est dans le consentement à la nécessité ? 
+La liberté elle est dans le consentement à la nécessité ? (on le verra plus tard) 
 
-La seule liberté pour Democrite est de consentir au réel. 
+ - La seule liberté pour Democrite est de consentir au réel. 
+
 
 Il y a une vraie ligne de force dans l'hédonisme qui est souvent utilitariste. Et c'est très souvent la morale du bien qui est retenue, plus que la morale de la vertu (au sens de Kant). 
 
@@ -56,14 +56,14 @@ Autre __opposition entre le *Phusis* (la Nature) et le *Nomos* (la Loi)__ chez a
 __Tradition Exotérique__ (pour tout le monde, pour ceux qui ne sont pas du sérail) par opposition a la __tradition Esotérique__ (pour les initiés, l'entre-soi). 
 
 
-### Platon, vainqueur aux points (au chi... l'arbitre ;-)
+### Platon, vainqueur aux points (au ch... l'arbitre ;-)
 
 Pour Onfray: "*Le platonisme peut être moqué par des gens qui ont le soucis du réel. On vit sous la domination de l'archive. Ce sont les Platoniciens qui écrivent l'histoire des idées ou de la philosophie en s'appuyant sur des archives et uniquement sur des archives. En allant chercher du texte pour essayer de confronter des textes produire du texte encore.*" 
 
 
 Par opposition, ce que visent d'abord les philosophes de l'époque (et Diogène en particulier) c'est la vie philosophique. La configuration nouvelle d'une existence. La conversion existentielle. Et c'est difficile de n'aborder que de manière textuelle et uniquement ce que peut être une pensée vivante a l'époque. 
 
-Je philosophe avec mon corps. La totalité de ma chair. 
+Pour Epicure, je philosophe avec mon corps. La totalité de ma chair. 
 
 __Ascèse :__ maitriser son corps et ne pas se laisser dominer par lui. 
 
@@ -96,7 +96,7 @@ La doctrine de l'Hédonisme est associée à Aristippe de Cyrène et au Cyréna�
 
 Épicure rappelle qu'un plaisir excessif actuel doit être évité s'il conduit à une douleur future alors que les Cyrénaïques insistaient sur le fait que le plaisir est toujours le but présent de l'action, même si cette fin est relativisée et se modifie dans le temps.
 
-Les épicuriens parlent eux d'[Ataraxie](https://fr.wikipedia.org/wiki/Ataraxie) (l'absence de trouble).
+Les épicuriens parlent eux d'__[Ataraxie](https://fr.wikipedia.org/wiki/Ataraxie)__ (l'absence de trouble).
 
 Diogène -> Savoir prendre du plaisir sans être pris par lui. 
 
