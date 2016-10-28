@@ -2,9 +2,9 @@
 
 ## Pourquoi ce repo dédié à la philosophie ?
 
-La philosophie est une de mes passions. C'est quelque chose qui m'a toujours attiré, et qui m'a bien souvent aidé dans la vie (à accepter l'inaceptable par exemple).
+La philosophie est une de mes passions. C'est quelque chose qui m'a toujours attiré, et qui m'a bien souvent aidé dans la vie (à accepter l'inaceptable notamment).
 
-Cela avait pourtant mal commencé... Je me souviens de ma frustration au lycée lorsqu'après toutes ces années à avoir attendu de pouvoir commencer cette matière, je tombais sur un prof -non seulement peu passionné par celle-ci- mais plus prompt à jouer au vieux-beau avec quelques lolitas en herbe. Il faut dire qu'il se présentait régulièrement comme *une sommité* en la matière, ayant eu l'audace d'écrire un mini "[que sais-je](https://www.puf.com/collections/Que_sais-je_-)" qui servait d'instrument de bachotage pour des générations et des générations d'élèves. Alors quand ils nous rendait nos copies (presque toutes sous la moyenne, à l'exception des 2 lolitas en question), c'était un mélange de déception et de colère que je ressentais. Une colère nourrie par son refus d'expliquer ce qui nous valait ces notes pourries (comment progresser alors?).
+Cela avait pourtant mal commencé... Je me souviens de ma frustration au lycée lorsqu'après toutes ces années à avoir attendu de pouvoir commencer cette matière, je tombais sur un prof -non seulement peu passionné par celle-ci- mais plus prompt à jouer au vieux-beau avec quelques lolitas en herbe. Il faut dire qu'il se présentait régulièrement comme *une sommité* en la matière, ayant eu l'audace d'écrire un mini "[que sais-je](https://www.puf.com/collections/Que_sais-je_-)" qui servait d'instrument de bachotage pour des générations et des générations d'élèves. Alors quand ils nous rendait nos copies (presque toutes sous la moyenne, à l'exception des 2 lolitas en question), c'était un mélange de déception et de colère que je ressentais. Une colère nourrie par son refus d'expliquer ce qui nous valait ces notes pourries, mais aussi de débattre (comment progresser alors?).
 
 Une déception également à l'époque. Mon père étant fan de Nietzsche, je m'étais préparé pour des questions abyssales et des débats intenses dans cette matière qui m'attirait avant même de la découvrir vraiment. Aujourd'hui, je pense que c'est de cette frustration qu'est né le besoin chez moi de m'y mettre, un peu plus tard.
 
@@ -19,7 +19,7 @@ J'aime ce "*sport de combat*" où la confrontation des idées permet parfois d'�
 
 Autant de questions qui nous concernent toutes et tous et qui méritent sans doute plus d'attention que celle qu'on leur réserve de nos jours (dans cette période où l'immédiateté fait loi). 
 
-Et il ne sera pas forcément question ici que de pensées abstraites. Une partie des philosophes Grecs disaient à l'époque: *Vivre sa pensée, et penser sa vie*. Pour moi c'est surtout ça être philosophe: mettre en cohérence ses actions et sa pensée. 
+Et il ne sera pas forcément question ici que de pensées abstraites. Une partie des philosophes Grecs disaient : "*Vivre sa pensée, et penser sa vie*". Pour moi c'est surtout ça __être philosophe: mettre en cohérence ses actions et sa pensée__. 
 
 ## Forcément subjectif
 Plus proche des idées d'Epicure, de Tchouang-Tseu, de Spinoza et de Nietzsche que celles de Platon ou de Kant, je proposerai ici une lecture et une sélection forcément biaisée des auteurs et des sujets qui me passionnent. Certaines pages seront consacrées à de l'histoire de la philosophie (pour avoir quelques bases), d'autres seront plutôt consacrées à des sujets en particulier (la liberté, le relativisme, etc)
