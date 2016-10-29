@@ -9,7 +9,7 @@ Ces notes prises parfois en style télégraphique sur mon téléphone font parti
 
 ## Les Présocratiques 
 
-Tout d'abord le terme pré-Socratique est complétement galvaudé, puisqu'on y associe également des contemporains (ex. Démocrite), voire des successeurs.
+Tout d'abord le terme pré-Socratique est complétement galvaudé, puisqu'on y associe également des contemporains (ex. Démocrite), voire des successeurs. La Pléidade si tu m'entends...
 
 
 ### *Vivre sa pensée, et penser sa vie*
