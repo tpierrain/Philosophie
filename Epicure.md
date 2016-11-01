@@ -8,15 +8,13 @@ Ces notes prises parfois en style télégraphique sur mon téléphone font parti
 
 ## Comment peut-on être libre ? (l'Aporie Grecque)
 
-Une [aporie](https://fr.wikipedia.org/wiki/Aporie) est une difficulté à résoudre un problème. 
+Une __[aporie](https://fr.wikipedia.org/wiki/Aporie)__ est une difficulté à résoudre un problème. 
 
 "Etre" en Grèce a l'époque, c'est "obéir a la loi du monde.". C'est obéir au Cosmos: "je suis le vouloir du destin".  __Dans ce contexte, peut-on être "libre" ?__
 
 => La question de l'être et de la liberté se pose donc difficilement chez les Grecs.
 
-*Petite parenthèse: pour Nietzsche, ce sont les chrétiens qui inventeront plus tard la liberté, le choix (pour permettre la culpabilité lorsqu'on se trompe, et toute la société qui va avec cette culpabilité). Les grecs eux disent qu'il n'y a pas de liberté (c'est la force de la nature). Déterminisme absolu. Une sagesse tragique (j'obéis au grand tout).* 
-
-A l'époque : les Dieux sont multiples, non aliénants (c'est le monothéisme qui invente l'intolerance par la suite). Avant, avec le Paganisme : un dieu de plus ou un de moins...(on s'en fout). Dieu des carrefours, dieu des fleurs, dieu des ...
+*Petite parenthèse: pour Nietzsche, ce sont les chrétiens qui inventeront plus tard la liberté, le choix (pour permettre la culpabilité lorsqu'on se trompe, et toute la société qui va avec cette culpabilité). Les grecs eux disent qu'il n'y a pas de liberté (c'est la force de la nature). Déterminisme absolu. Une sagesse tragique (j'obéis au grand tout). A l'époque : les Dieux sont multiples, non aliénants (c'est le monothéisme qui invente l'intolerance par la suite). Avant, avec le Paganisme : un dieu de plus ou un de moins...(on s'en fout). Dieu des carrefours, dieu des fleurs, dieu des ...*
 
 __L'aporie Grecque (paradoxe): comment réintroduire la liberté dans ce contexte déterministe ?__
 
@@ -25,16 +23,9 @@ Si tout est déterminé par le cosmos, comment pouvons-nous être libres ?
 La réponse est une tentative d'appropriation de ce qui me gouverne. C'est __ce que reprendra Nietzsche par la suite : en acceptant le tragique__. 
 
 ## "Deviens ce que tu es" 
-(du poète [Pindare](https://fr.wikipedia.org/wiki/Pindare) dans son Pythiques, II. vers 72.)
+(du poète __[Pindare](https://fr.wikipedia.org/wiki/Pindare)__ dans son Pythiques, II. vers 72.)
 
-En d'autres termes: il y a une force, j'y consens (à cette force), __et là, je manifeste ma liberté.__
-
----
-
-## Il nous reste la possibilité de consentir à ce qui advient
-
-L'épicurisme est une __philosophie de la lucidité__; décapante jusqu'a l'os (avec Lucrèce plus encore, qui attaque considérablement toutes les illusions dont on se berce pour faire face a la réalité, pour tenir le coup, pour survivre). Et cette pensée tragique nous permet de résoudre l'Aporie Grecque : nous sommes déterminés par une puissance qui fait le monde. La même énergie qui constitue la nature. __Nous n'avons pas -a priori- le choix. Mais il nous reste -et c'est la qu'est la liberté- la possibilité de consentir a ce qui advient.__
-
+En d'autres termes: il y a une force, j'y consens (à cette force), __et là, je manifeste ma liberté.__ Il nous reste la possibilité de consentir à ce qui advient.
 
 Je ne suis libre que d'une seule chose : consentir a la force qui me fait être ce que je suis. Et c'est a partie de ce moment là que je peux devenir ce que je suis (en consentant a cette puissance qui me fait être ce que je suis). La liberté n'est ni un instrument de soumission, ni un instrument de liberation. 
 
@@ -47,6 +38,8 @@ Alors concrètement, qui sommes nous ?
 ### Socrate, si tu nous entends...
 
 Au "connais-toi toi même" de Socrate, les Epicuriens répondent : __"je suis mon corps".__
+
+L'épicurisme est une __philosophie de la lucidité__; décapante jusqu'a l'os (avec Lucrèce plus encore, qui attaque considérablement toutes les illusions dont on se berce pour faire face a la réalité, pour tenir le coup, pour survivre). Et cette pensée tragique nous permet de résoudre l'Aporie Grecque : nous sommes déterminés par une puissance qui fait le monde. La même énergie qui constitue la nature. __Nous n'avons pas -a priori- le choix. Mais il nous reste -et c'est la qu'est la liberté- la possibilité de consentir a ce qui advient.__
 
 ## Epicure (341 av JC - 270 av JC)
 
