@@ -12,7 +12,7 @@ Une __[aporie](https://fr.wikipedia.org/wiki/Aporie)__ est une difficulté à r�
 
 "Etre" en Grèce a l'époque, c'est "obéir a la loi du monde.". C'est obéir au Cosmos: "je suis le vouloir du destin".  __Dans ce contexte, peut-on être "libre" ?__
 
-=> La question de l'être et de la liberté se pose donc difficilement chez les Grecs.
+=> La question de l'être et de la liberté a donc posé quelques problèmes chez les Grecs.
 
 *Petite parenthèse: pour Nietzsche, ce sont les chrétiens qui inventeront plus tard la liberté, le choix (pour permettre la culpabilité lorsqu'on se trompe, et toute la société qui va avec cette culpabilité). Les grecs eux disent qu'il n'y a pas de liberté (c'est la force de la nature). Déterminisme absolu. Une sagesse tragique (j'obéis au grand tout). A l'époque : les Dieux sont multiples, non aliénants (c'est le monothéisme qui invente l'intolerance par la suite). Avant, avec le Paganisme : un dieu de plus ou un de moins...(on s'en fout). Dieu des carrefours, dieu des fleurs, dieu des ...*
 
@@ -25,9 +25,9 @@ La réponse est une tentative d'appropriation de ce qui me gouverne. C'est __ce 
 ## "Deviens ce que tu es" 
 (du poète __[Pindare](https://fr.wikipedia.org/wiki/Pindare)__ dans son Pythiques, II. vers 72.)
 
-En d'autres termes: il y a une force, j'y consens (à cette force), __et là, je manifeste ma liberté.__ Il nous reste la possibilité de consentir à ce qui advient.
+Il nous reste la possibilité de consentir à ce qui advient. En d'autres termes: il y a une force, j'y consens (à cette force), __et là, je manifeste ma liberté.__ 
 
-Je ne suis libre que d'une seule chose : consentir a la force qui me fait être ce que je suis. Et c'est a partie de ce moment là que je peux devenir ce que je suis (en consentant a cette puissance qui me fait être ce que je suis). La liberté n'est ni un instrument de soumission, ni un instrument de liberation. 
+__Je ne suis libre que d'une seule chose :__ consentir a la force qui me fait être ce que je suis. Et c'est a partie de ce moment là que je peux devenir ce que je suis (en consentant a cette puissance qui me fait être ce que je suis). La liberté n'est ni un instrument de soumission, ni un instrument de liberation. 
 
 ### Ce que je suis, je dois vouloir l'être.
 
@@ -43,7 +43,7 @@ L'épicurisme est une __philosophie de la lucidité__; décapante jusqu'a l'os (
 
 ## Epicure (341 av JC - 270 av JC)
 
-Apôtre du plaisir comme souverain bien qu'il définit essentiellement comme « absence de douleur » (*[Ataraxie](https://fr.wikipedia.org/wiki/Ataraxie)*), Épicure considère que la sensation est à l'origine de toute connaissance (il annonce ainsi l'empirisme).
+Apôtre du plaisir comme souverain bien qu'il définit essentiellement comme « absence de douleur » (__*[Ataraxie](https://fr.wikipedia.org/wiki/Ataraxie)*)__, Épicure considère que __la sensation est à l'origine de toute connaissance__ (il annonce ainsi l'empirisme).
 
 ### L'importance du corps chez Epicure
 
@@ -67,7 +67,7 @@ La Lettre à Ménécée est une lettre écrite par le philosophe Épicure à son
 
 __Epicure est l'auteur d'une oeuvre considerable aujourd'hui en grande partie perdue__. 
 
-Diogène Laërce cite 41 titres d'Epicure et precise qu'il ne mentione là que ses meilleurs ouvrages. Heureusement, quelques siècles plus tard (1ere moitié du 1er siècle), le Romain [Lucrèce](https://fr.wikipedia.org/wiki/Lucr%C3%A8ce) (Titus Lucretius Carus) reprends les theses d'Epicure tout en y ajoutant des choses sur le fond et la forme (comme la doctrine de la déclinaison de l'atome, ou __*[Clinamen](https://fr.wikipedia.org/wiki/Clinamen)*__)
+Diogène Laërce cite 41 titres d'Epicure et precise qu'il ne mentione là que ses meilleurs ouvrages. Heureusement, quelques siècles plus tard (1ere moitié du 1er siècle), le Romain __[Lucrèce](https://fr.wikipedia.org/wiki/Lucr%C3%A8ce)__ (Titus Lucretius Carus) reprends les theses d'Epicure tout en y ajoutant des choses sur le fond et la forme (comme la doctrine de la déclinaison de l'atome, ou __*[Clinamen](https://fr.wikipedia.org/wiki/Clinamen)*__)
 
 
 __Le secret d'une vie heureuse se trouve dans la lettre a Ménécée d'Epicure.__
@@ -80,7 +80,7 @@ Recommandation Epicurienne de prudence : __si tout plaisir est bon par principe,
 
 "*Quand nous disons que le plaisir est la fin, nous ne parlons pas des plaisirs des debauches ni ceux qui consistent dans les jouissances- comme le croient certains qui, ignorant de quoi nous parlons, sont en désaccord avec nos propos ou les prennent dans un sens qu'ils n'ont pas-, __mais du fait pour le corps de ne pas souffrir et, pour l'âme, de ne pas être troublée.__*" (Lettre à Ménécée)
  
-Le plaisir n'est pas seulement le terme d'un processus d'apaisement de l'âme : il en est aussi la condition première. 
+__Le plaisir n'est pas seulement le terme d'un processus d'apaisement de l'âme : il en est aussi la condition première.__
 
 Pour Epicure, "*le plaisir est principe (arché) et fin (telos) de la vie bienheureuse*"
 
