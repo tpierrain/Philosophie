@@ -172,6 +172,4 @@ __L'idéal ascétique (formule de Nietzsche) = détestation du corps que l'on tr
 
 ### Epicure 
 
-Comme synthèse de plusieurs pensées. On verra __[la prochaine fois](Epicure.md)__ comment un philosophe comme Epicure peut cristalliser un certain nombre d'influences, de forces.
-
-TBC... 
+Comme synthèse de plusieurs pensées. On verra __[la prochaine fois](Epicure.md)__ comment un philosophe comme Epicure peut cristalliser un certain nombre d'influences, de forces. On y parlera également de liberté (ou pas ;-).
