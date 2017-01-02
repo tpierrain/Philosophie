@@ -2,7 +2,7 @@
 
 ## Pourquoi ce repo dédié à la philosophie ?
 
-La philosophie est une de mes passions. C'est quelque chose qui m'a toujours attiré, et qui m'a bien souvent aidé dans la vie (à accepter l'inaceptable notamment).
+La philosophie est une de mes passions. C'est quelque chose qui m'a toujours attiré, et qui m'a bien souvent aidé dans la vie (à accepter l'inacceptable notamment).
 
 Cela avait pourtant mal commencé... Je me souviens de ma frustration au lycée lorsqu'après toutes ces années à avoir attendu pour commencer cette matière, je tombais sur un prof -non seulement peu passionné par celle-ci- mais plus prompt à jouer au vieux-beau avec quelques lolitas en herbe. Il faut dire qu'il se présentait régulièrement comme *une sommité* en la matière, ayant eu l'audace d'écrire un mini "[que sais-je](https://www.puf.com/collections/Que_sais-je_-)" qui servait d'instrument de bachotage pour des générations et des générations d'élèves. Alors quand ils nous rendait nos copies (presque toutes sous la moyenne, à l'exception des 2 lolitas en question), c'était un mélange de déception et de colère que je ressentais. Une colère nourrie par son refus d'expliquer ce qui nous valait ces notes pourries, mais aussi de débattre (comment progresser alors?).
 
