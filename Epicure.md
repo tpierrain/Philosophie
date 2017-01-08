@@ -5,6 +5,9 @@ Ces notes prises parfois en style télégraphique sur mon téléphone font parti
 *Je reprends ici le tître du 1er ouvrage de la contre-histoire de la philosophie de Michel Onfray dont j'apprécie particulièrement le travail depuis de nombreuses années (même si le "personnage" m'agace parfois par moment). Une grosse partie de mes notes vient d'ailleurs de l'écoute -dans le métro- des différents exposés faits par Michel Onfray à l'Université populaire de Caen*
 
 - - -
+Note : pour ceux qui auraient loupé le petit reglement de compte avec Platon de l'épisode précédent, __[c'est ici que ça s'est passé](Grece.md)__. Pour ceux qui s'intéresseraient à la question: "__sommes nous libres ?__", vous êtes sur la bonne page : bienvenue !
+
+
 
 ## Comment peut-on être libre ? (l'Aporie Grecque)
 
