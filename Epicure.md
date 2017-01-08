@@ -35,7 +35,7 @@ Fragment du grand tout. Morceau du Cosmos. Seule ma conscience me donne l'impres
 
 Alors concrètement, qui sommes nous ?
 
-### Socrate, si tu nous entends...
+Philosophie de la lucidité
 
 Au "connais-toi toi même" de Socrate, les Epicuriens répondent : __"je suis mon corps".__
 

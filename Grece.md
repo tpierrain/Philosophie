@@ -46,6 +46,8 @@ Il y a une vraie ligne de force dans l'hédonisme qui est souvent utilitariste. 
 
 __Il n'y a pas d'athéisme épicurien__ L'épicurisme est un polythéisme matérialiste. 
 
+##### L'hédonisme = fais a l'autre ce que tu voudrais qu'il te fasse.
+
 - - -
 
 ### L'anti-platonisme : 1ere grande idée des philosophes cyniques.
