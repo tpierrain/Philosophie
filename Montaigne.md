@@ -119,3 +119,11 @@ On ne connait que par nos 5 sens.
 
 Il n'y a de la connaissance que par la relation directe de l'individu au monde par le biais de ses 5 sens. 
 
+---
+
+ - __[Sagesses antiques (partie 1 ): les Grecs](Grece.md)__
+ 
+ - __[Sagesses antiques (partie  2) : l'aporie Grècque et Epicure](Epicure.md)__
+ 
+
+
