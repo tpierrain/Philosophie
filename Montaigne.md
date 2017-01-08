@@ -1,6 +1,6 @@
 # Montaigne
 
-Ces notes prises parfois en style télégraphique sur mon téléphone font partie du __[Repo-Philo dont j'explique les motivations ici](Readme.md)__. Une grosse partie de ces notes viennent de l'écoute des exposés faits par Michel Onfray lors de *l'Université populaire de Caen*. J'ai essayé de les reprendre un peu avant de les poster mais celles-ci peuvent encore contenir quelques coquilles et fautes d'orthographes (je m'en excuse par avance). 
+Ces notes prises parfois en style télégraphique sur mon téléphone font partie du __[Repo-Philo dont j'explique les motivations ici](Readme.md)__. Une grosse partie de ces notes vient de l'écoute des exposés faits par Michel Onfray lors de *l'Université populaire de Caen*. J'ai essayé de les reprendre un peu avant de les poster mais celles-ci peuvent encore contenir quelques coquilles et fautes d'orthographes (je m'en excuse par avance). 
 
 - - -
 
@@ -53,7 +53,7 @@ Lire : "*la misère de l'homme sans dieu*" de Pascal ("texte immense" pour Onfra
 
 Protagoras: "l'homme est la mesure de toute chose". 
 
-__Montaigne est chrétien mais il est libre avant tout __(il demande son avis a l'église sur les essais mais ne les change pas ;-)
+__Montaigne est chrétien mais il est libre avant tout__ (il demande son avis a l'église sur les essais mais ne les change pas ;-)
 
 Montaigne retient "Juste, charitable et bon" dans le christianisme et __il rejète le dolorisme de l'église.__ 
 
