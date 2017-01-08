@@ -29,5 +29,7 @@ Plus proche des idées d'Epicure, de Tchouang-Tseu, de Spinoza, Camus ou Nietzsc
 ## Ce repo git-hub est donc pour moi l'occasion de vider ...
 ... mes notes prises sur mon téléphone lors de lectures, d'écoutes de débats et de séminaires sur le sujet. J'encourage également toutes celles et ceux qui voudraient le faire à échanger, débattre, contribuer sous la forme de pull-request ou d'issues (sans doute mieux pour discuter).
 
-Bienvenue sur ce repo-philo donc, et commençons par ... __[les Grecs](Grece.md)__ ;-)
+Bienvenue sur ce repo-philo donc, et commençons par ... __[les Grecs (2 épisodes)](Grece.md)__ ;-)
+
+Avant d'aller voir ensuite du côté de [Montaigne](Montaigne.md)
 
