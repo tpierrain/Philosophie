@@ -1,14 +1,10 @@
-# Sagesses antiques : les Grecs (partie 2) 
+# Montaigne
 
-Ces notes prises parfois en style télégraphique sur mon téléphone font partie du __[Repo-Philo dont j'explique les motivations ici](Readme.md)__. J'ai essayé de les reprendre un peu avant de les poster mais celles-ci peuvent encore contenir quelques coquilles et fautes d'orthographes (je m'en excuse par avance). 
-
-*Je reprends ici le tître du 1er ouvrage de la contre-histoire de la philosophie de Michel Onfray dont j'apprécie particulièrement le travail depuis de nombreuses années (même si le "personnage" m'agace parfois par moment). Une grosse partie de mes notes vient d'ailleurs de l'écoute -dans le métro- des différents exposés faits par Michel Onfray à l'Université populaire de Caen*
+Ces notes prises parfois en style télégraphique sur mon téléphone font partie du __[Repo-Philo dont j'explique les motivations ici](Readme.md)__. Une grosse partie de ces notes viennent de l'écoute des exposés faits par Michel Onfray lors de *l'Université populaire de Caen*. J'ai essayé de les reprendre un peu avant de les poster mais celles-ci peuvent encore contenir quelques coquilles et fautes d'orthographes (je m'en excuse par avance). 
 
 - - -
 
-# Montaigne
-
-C'est l'essai d'une vie philosophique. 
+## C'est l'essai d'une vie philosophique. 
 
 __Montaigne crée la 1ere sagesse post-chrétienne (ie. on peut être moral et sans dieu).__
 
