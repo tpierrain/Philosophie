@@ -31,5 +31,5 @@ Plus proche des idées d'Epicure, de Tchouang-Tseu, de Spinoza, Camus ou Nietzsc
 
 Bienvenue sur ce repo-philo donc, et commençons par ... __[les Grecs (2 épisodes)](Grece.md)__ ;-)
 
-Avant d'aller voir ensuite du côté de [Montaigne](Montaigne.md)
+Avant d'aller voir ensuite du côté de __[Montaigne](Montaigne.md)__
 
